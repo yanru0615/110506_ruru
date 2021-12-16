@@ -1,0 +1,429 @@
+body{
+	width: max-content;
+    background-color: rgb(241, 219, 157);
+	margin-top: 10px;   
+}
+.body2{
+	width: max-content;
+    background-color: rgb(241, 219, 157);
+	margin-top: 10px;  
+	height: auto;
+}
+
+.container{
+	margin-left: -30px;
+}
+
+/* ---------------------------------------------logo----------------------------------------- */
+img{
+	width: 80px;
+	height: 80px;
+	margin-left: 20px;
+	margin-top: 13px;
+}
+.navbar img{
+	width: 80px;
+	height: 80px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+/* ---------------------------------------------導覽列loby----------------------------------------- */
+.page-header {
+    position:fixed;
+    top:0;
+    z-index:100;
+    width:100%;
+    min-width:800px;
+    height: 100px;
+    background: #e9ad53;
+}
+/* -----------------------------------------------loby-------------------------------------------- */
+.form-group{
+	margin-left: 15px;
+	margin-top: 30px;
+}
+
+/* ---------------------------------------------loby基本資訊------------------------------------ */
+
+/* ---------------------------------------------標題----------------------------------------- */
+.col-sm-5 h3{
+	margin-top: 100px;
+	margin-left: 150px;
+	font-style: normal;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: bolder;
+    line-height:60px;
+    text-align:justify;
+	color: #da6110;
+}
+
+.col-sm-5 img{
+	height: 400px;
+	width: 600px;
+	margin-left: 150px;	
+	margin-top: -10px;
+}
+
+h1{
+	margin-top: -3px;
+}
+
+.modal-content{
+	background-color: rgb(241, 219, 157);
+	border: none;
+	margin-left: 200px;
+}
+
+.col-xs-6{
+	margin-top: 15px;
+	margin-left: 70px;
+}
+
+.col-xs-61{
+	margin-top: 20px;
+}
+
+.form-box{
+	margin-top: 43px;
+	margin-left: 20px;
+}
+.form-control {	
+	margin-top: 0px;
+	background: #ee822a;
+	width: 450px;
+	height: 50px;
+	padding: 2px;
+	margin-right: 20px;
+}
+small{
+	margin-left: 30px;
+	border-left: 5px solid #f1d36e;
+	padding: 22px;
+	text-transform: uppercase;
+	color: #da6110 !important;
+	letter-spacing: 1px;
+	text-shadow: 0px 1px 6px;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 40px;
+	vertical-align:middle;
+}
+.navbar-brand{
+	margin-left: 30px;
+	margin-top: -7px;
+	border-left: 5px solid #f1d36e;
+	padding: 25px;
+	text-transform: uppercase;
+	color: #da6110 !important;
+	letter-spacing: 1px;
+	text-shadow: 0px 1px 10px;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 40px;
+	vertical-align:middle;
+}
+
+/* ---------------------------------------------find----------------------------------------- */
+.page-header2{
+	position:fixed;
+    top:0;
+    z-index:100;
+    width:100%;
+    min-width:800px;
+    height: 100px;
+    background: #e9ad53;
+}
+
+input{
+	margin-right: 15px;
+	background-color: #e9ad53;
+	border: 0;
+	font-family:'Noto Sans TC', sans-serif; 
+}
+input:hover{
+	background-color:#fccf54;
+}
+.form-group2{
+	margin-left: 100px;
+	margin-top: 170px;
+	width: 100px;
+}
+.mLabels{
+	margin-left: 11px;
+	margin-bottom: 2px;
+	font-size: 25px;
+	font-family:'Noto Sans TC', sans-serif; 
+}
+button{
+	
+	width: 450px;
+	margin-left: 70px;
+}
+.col-lg-9{
+	width: 1000px;
+	padding: 25px;
+	max-width: 100%;
+	flex: 100%;
+	margin-right: 20px;
+	position: absolute;
+	top: 10%;
+	left: 15%;
+	height: auto;
+}
+
+.card-title{
+	margin-left: 10px;
+	margin-top: 200px;
+}
+
+.card-body{
+	padding: 5px;
+	height: 400px;
+	width: 300px;
+	word-wrap:break-word; 
+	margin-top: 20px;
+}
+.h-100{
+	width: 300px;
+	margin-left: 20px ;
+}
+h5{
+	font-size: 18px;
+	position: absolute;
+	bottom: 50px;
+	margin-left: 15px;
+}
+h4{
+	font-size: 30px;
+	color:#d38b5b;
+}
+.mb-4,my-4{
+	width: 200px;
+}
+.card-img-top{
+    max-height: 100%;  
+    max-width: 100%; 
+    width: auto;
+    height: auto;
+    position: absolute;
+    margin: auto;
+}
+.img-fluid{
+	margin-top: -20px;
+	margin-bottom: 50px;
+	margin-left: 180px;
+	width: 600px;
+	height: 315px;
+}
+h1.my-4{
+	margin-left: -90px;
+	font-family:'Noto Sans TC', sans-serif; 
+	font-size: 35px;
+	color:#ec530c !important;
+	letter-spacing: 1px;
+	text-shadow: 0px 2px 12px;
+}
+ol.carousel-indicators{
+	margin-top: 10px;
+	margin-right: 50px;
+}
+
+.carousel-control-next-icon{
+	margin-right: -140px;
+}
+
+form{
+	margin-top: 20px;
+	margin-right: 10px;
+	font-size: 17px;
+	font-weight: bolder;
+}
+.form-check-label{
+	width:150px;
+	font-size: 23px;
+	margin-left: 15px;
+	color: #000000;
+}
+.form-check{
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.form-check-input{
+	width: 17px;
+	height: 17px;
+	margin-top: 10px;
+	margin-left: -13px;
+}
+.mLabels2{
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 11px;
+	margin-bottom: 2px;
+}
+.mLabels3{
+	font-size: 25px;
+	margin-top: 15px;
+	margin-left: 11px;
+	margin-bottom: 2px;
+	font-family:'Noto Sans TC', sans-serif; 
+}
+.place{
+	margin-left: -15px;
+	width: 100px;
+	margin-bottom: 10px;
+}
+.money{
+	margin-left: 9px;
+	width: 100px;
+	margin-bottom: 10px;
+}
+.search{
+	background: #e9ad53;
+	border: 0;
+	font-family:'Noto Sans TC', sans-serif; 
+	width: 250px;
+	margin-top: 25px;
+	margin-left: 90px;
+	height: 35px;
+}
+/* ---------------------------------------------導覽列final----------------------------------------- */
+.navbar{
+	position:fixed;
+    top:0;
+    z-index:100;
+    width:100%;
+    min-width:800px;
+    height: 100px;
+    background: #e9ad53;
+}
+.inline-block-nav1{
+	position: absolute;
+	right: 5%;
+	top: 30%;
+	margin-right: 5px;
+}
+.inline-block-nav{
+	position: absolute;
+	right: 5%;
+	top: 30%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.img-fluid2{
+	margin-top: 0px;
+	margin-left: 195px;
+	width: 650px;
+	height: 500px;
+}
+.col-lg-8{
+	height: 800px;
+	width: 1500px;
+	margin-left: -170px;
+}
+
+label{
+	margin-left: 30px;
+	font-size: 30px;
+	margin-left: 35px;
+	color: #e4752b;
+}
+.chose{
+	margin-left: 140px;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-weight: bolder;
+}
+
+.btn5{
+	font-family: 'Noto Sans TC', sans-serif;
+	background: #e9ad53;
+	width: 400px;
+	height: 40px;
+	border: 0;
+	margin-left: 330px;
+}
+
+input.btn6{
+	background: #e9ad53;
+	width: 200px;
+	height: 40px;
+	margin-left: 0px;
+}
+
+.btn7{
+	background: #e9ad53;
+	width: 200px;
+	height: 40px;
+	margin-left: 250px;
+	margin-top: -72px;
+	border: 0;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+.page-icon{
+	margin-left: 225px;
+	font-size:0;/*修復行內元素之間空隙間隔*/
+	text-align:center;/*設定內容居中顯示*/
+}
+
+/*設定共有的的樣式佈局，主要是進行程式碼優化，提高執行效率*/
+.page-icon a,.page-disabled,.page-next{
+	border:1px solid #ccc;
+	border-radius:3px;
+	padding:4px 10px 5px;
+	font-size:20PX;/*修復行內元素之間空隙間隔*/
+	margin-left: 5px;
+	background: #ffffff;
+	border-radius: 7px;
+}
+
+/*對 a 標籤進行樣式佈局 */
+.page-icon a{
+	text-decoration:none;/*取消連結的下劃線*/
+	color:#000000;
+}
+
+.page-current{
+	color:rgb(209, 101, 51);
+	padding:4px 10px 5px;
+	font-size:20PX;/*修復行內元素之間空隙間隔*/
+	margin-left: 3px;
+}
+
+.page-disabled{
+	color:rgb(0, 0, 0);
+}
+
+.page-next i,.page-disabled i{
+	cursor:pointer;/*設定滑鼠經過時的顯示狀態，這裡設定的是顯示狀態為小手狀態*/
+	display:inline-block;/*設定顯示的方式為行內塊元素*/
+	width: 20px;
+	height: 30px;
+}
+.page-disabled i{
+	background-position:-80px -608px;
+	margin-right:3px;
+}
+
+.page-next i{
+	background-position:-62px -608px;
+	margin-left:3px;
+}
+
+
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacy:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+
+.fade-in {
+	opacity:0;  /* make things invisible upon start */
+	-webkit-animation:fadeIn ease-in 1; 
+	-moz-animation:fadeIn ease-in 1;
+	animation:fadeIn ease-in 1;
+ 
+	-webkit-animation-fill-mode:forwards; 
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+ 
+	-webkit-animation-duration:1s;
+	-moz-animation-duration:1s;
+	animation-duration:1s;
+}
